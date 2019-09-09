@@ -1,5 +1,5 @@
 {
-  "name": "RubiconInternational/lti",
+  "name": "rubiconinternational/lti",
   "description": "PHP class library for building LTI integrations -  fork for Atlas",
   "keywords": ["LTI"],
   "homepage": "https://github.com/RubiconInternational/LTI-PHP",
