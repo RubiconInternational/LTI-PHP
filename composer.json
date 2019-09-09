@@ -1,14 +1,14 @@
 {
-  "name": "celtic/lti",
-  "description": "PHP class library for building LTI integrations",
+  "name": "RubiconInternational/lti",
+  "description": "PHP class library for building LTI integrations -  fork for Atlas",
   "keywords": ["LTI"],
-  "homepage": "https://github.com/celtic-project/LTI-PHP",
+  "homepage": "https://github.com/RubiconInternational/LTI-PHP",
   "type": "library",
   "license": "LGPL-3.0-or-later",
   "authors": [
     {
-      "name": "Stephen P Vickers",
-      "email": "stephen@spvsoftwareproducts.com"
+      "name": "Andrew Elliott",
+      "email": "aelliott@onatlas.com"
     }
   ],
   "require": {
